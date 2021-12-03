@@ -1,4 +1,4 @@
-<h1 align="center">MoneyBall Project with R ProgrammingLanguage</h1>
+<h1 align="center">MoneyBall Project with R Programming Language</h1>
 
 <div align="center">This project is based off the book written by Michael Lewis (later turned into a movie).</div>
 
