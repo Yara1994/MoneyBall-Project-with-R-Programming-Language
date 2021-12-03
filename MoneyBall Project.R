@@ -50,7 +50,7 @@ lost_players <- subset(combo, playerID %in% c('giambja01', 'damonjo01', 'saenzol
 lost_players_after_2001 <- subset(lost_players, yearID == 2001)
 lost_players_after_2001
 
-lost_players_after_2001 <- lost_players_after_2001[c("playerID", "H", "X2B", "X3B", "HR", "OBP", "SLG", "BA", "AB")]
+lost_players_after_2001 <- lost_players_after_2001[c("playerID", "H", "X2B", "X3B", "HR", "OBP", "SLG", "BA", "AB", "salary")]
 lost_players_after_2001
 
 # Replacement Players
@@ -134,18 +134,3 @@ print(best.OBP.players)
 
 best.AB.players <- head(arrange(limited_combo_2021, desc(AB)), 3)
 print(best.AB.players)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
