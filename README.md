@@ -60,3 +60,38 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
+<h3 align = "center">Our goal is to find Replacement Players for the key three players we lost! There are 3 criterias:</h3>
+
+<br>
+<ul>
+  <li>The total combined salary of the three players can not exceed 15 million $.<strong> (Total Combined Ex-Player's Salary was: 11,493,333 $)</strong></li>
+  <li>Their combined number of At Bats (AB) needs to be equal to or greater than the lost players.<strong> (Combined Ex-Player's AB score was: 1469)</strong></li>
+  <li>Their mean OBP had to equal to or greater than the mean OBP of the lost players.<strong> (Mean (Average) Ex-Player's OBP score was: 0.364)</strong></li>
+</ul>
+<br>
+
+<h4 align="center">3 Ex-Players and their stats, who left the team</h4>
+
+<p align="center">
+  <img src=Images/Ex%20Players.PNG>
+</p>
+
+<h4 align="center">Dependence of On Base Percentage(OBP) and Salary</h4>
+
+<p align="center">
+  <img src=Images/OBP%20and%20Salary%20-%20Full.png>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
