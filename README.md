@@ -15,7 +15,7 @@
 </div>
 
 <p align="center">
-  <img src=Images/Moneyball.jpg>
+  <img width="950" height="600" src=Images/Moneyball.jpg>
 </p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------
@@ -42,13 +42,13 @@
 
 
 <p align="center">
-  <img src=Images/salary.png>
+  <img width="850" height="600" src=Images/salary.png>
 </p>
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Because of the team's smaller revenues, Oakland is forced to find players undervalued by the market, and their system for finding value in undervalued players has proven itself thus far. This approach brought the A's to the playoffs in 2002 and 2003.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In this project we'll work with some data and with the goal of trying to find replacement players for the ones lost at the start of the off-season - During the 2001–02 offseason, the team lost three key free agents to larger market teams: 2000 AL MVP Jason Giambi to the New York Yankees, outfielder Johnny Damon to the Boston Red Sox, and closer Jason Isringhausen to the St. Louis Cardinals.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In this project I'll work with some data and with the goal of trying to find replacement players for the ones lost at the start of the off-season - During the 2001–02 offseason, the team lost three key free agents to larger market teams: 2000 AL MVP Jason Giambi to the New York Yankees, outfielder Johnny Damon to the Boston Red Sox, and closer Jason Isringhausen to the St. Louis Cardinals.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
