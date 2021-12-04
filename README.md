@@ -83,15 +83,38 @@
 </p>
 
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Looks like there is no point in paying above 5 million or so (I'm just eyeballing this number). There are also a lot of players with OBP==0. Let's filter them out.
 
+<h3 align="center">19 players, that can be great substitution for our Ex-players:</h3>
 
+<p align="center">
+  <img src=Images/Potential%20Replacement.PNG>
+</p>
 
+<div align="center">Let's visualize them as well.</div>
+<br>
 
+<p align="center">
+  <img src=Images/OBP%20and%20Salary%20-%20Filtered.png>
+</p>
 
+<div align="center">3 Cheapest Players</div>
+<br>
 
+<p align="center">
+  <img src=Images/3%20Cheapest%20Players.PNG>
+</p>
 
+<div align="center">3 Players with the Best On Base Percentage (OBP)</div>
+<br>
 
+<p align="center">
+  <img src=Images/3%20Best%20OBP.PNG>
+</p>
 
+<div align="center">3 Players with the Best At Bats (AB)</div>
+<br>
 
-
-
+<p align="center">
+  <img src=Images/3%20Best%20AB.PNG>
+</p>
